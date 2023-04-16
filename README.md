@@ -23,6 +23,7 @@
 
 (7) Jira - [видеокурс](https://youtube.com/playlist?list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt)
 
+(8) SQL - [курс](https://www.w3schools.com/sql/)
 
 
 #### Порядок действий 
