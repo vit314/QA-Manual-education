@@ -33,7 +33,7 @@
 
 (7) Jira 
 - [видеокурс RUS](https://youtu.be/VywxIQ2ZXw4) 
-- [видеокурс](https://youtube.com/playlist?list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt)
+- [видеокурс ENG](https://youtube.com/playlist?list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt)
 
 (8) SQL 
 - [видеокурс RUS](https://youtu.be/fXxB2pN3_30?si=gGea3OIX_jcUAGFT) 
