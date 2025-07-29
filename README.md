@@ -28,11 +28,11 @@
 - [видеокурс ENG](https://www.youtube.com/watch?v=oIrDcE4tG5A)
 
 (6) TestRail 
-- [видеокурс RUS](https://youtu.be/6YrgKBTzb5o?si=-YPAQJOzYMGu9zak) 
+- [видеокурс RUS](https://youtu.be/XQ7MoUT7rEk?si=DuZoKVmy4Nu4FTL) 
 - [видеокурс ENG](https://www.youtube.com/watch?v=47wjXA_hFaM&list=PLL34mf651faM7lfOAmuT0t7q7CS-Y1v63)
 
 (7) Jira 
-- [видеокурс RUS](https://youtu.be/VywxIQ2ZXw4) 
+- [видеокурс RUS](https://youtu.be/6YrgKBTzb5o?si=-YPAQJOzYMGu9zak) 
 - [видеокурс ENG](https://youtube.com/playlist?list=PLL34mf651faOpDaNGr4tt6FF_nUYb7ypt)
 
 (8) SQL 
